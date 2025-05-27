@@ -1,5 +1,10 @@
 {
-  "users": [
+  "profile": {
+    "firstName": "Ammar",
+    "lastName": "Hussien",
+    "zipCode": "12345"
+  },
+  "posts": [
     {
       "id": 1,
       "firstName": "Ammar",
