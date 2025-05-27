@@ -1,11 +1,10 @@
 {
-  "posts": [
+  "Users": [
     {
       "id": 1,
-      "title": "hello"
+      "firstName": "Ammar",
+      "lastName": "Hussien",
+      "zipCode":"12345"
     }
   ],
-  "profile": {
-    "name": "typicode"
-  }
 }
